@@ -16,7 +16,7 @@ This is a simple web application that serves an Excel file via Node.js, presents
 - Node.js on the server side
 
 ## How to Launch
-
+0. Make sure you have installed node.js (https://nodejs.org/en/download/).
 1. Download the project locally to your computer.
 2. Enter the directory with the project.
 3. In the command line, enter `npm install` to download all necessary dependencies.
