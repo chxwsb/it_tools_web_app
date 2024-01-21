@@ -1,4 +1,4 @@
-## Spis Treści
+## Table of Content
 1. [General Info](#general-info)
 2. [Used Technologies](#used-technologies)
 3. [How to Launch](#how-to-launch)
