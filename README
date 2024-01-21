@@ -3,7 +3,7 @@
 2. [Used Technologies](#Used Technologies)
 3. [How to launch](#How to launch)
 
-#General Info
+##General Info
 
 This is simple web application that serves excel file via Node.js, presents this data and allows user to do simple actions on it.
 
