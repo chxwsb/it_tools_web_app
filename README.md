@@ -18,6 +18,6 @@ This is a simple web application that serves an Excel file via Node.js, presents
 ## How to Launch
 0. Make sure you have installed node.js (https://nodejs.org/en/download/).
 1. Download the project locally to your computer.
-2. Enter the directory with the project.
+2. Enter into the directory with the project.
 3. In the command line, enter `npm install` to download all necessary dependencies.
 4. Finally, enter `node server.js` to launch the server. If everything finishes with success, you should see `Server runs at http://localhost:3000`.
