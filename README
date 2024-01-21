@@ -1,8 +1,13 @@
-General Info
+## Spis Treści
+1. [General Info](#General Info)
+2. [Used Technologies](#Used Technologies)
+3. [How to launch](#How to launch)
+
+#General Info
 
 This is simple web application that serves excel file via Node.js, presents this data and allows user to do simple actions on it.
 
-Used Technologies
+#Used Technologies
 
 HTML/CSS to styling frontend side 
 Chart.js to create interactive diagrams
@@ -10,7 +15,7 @@ JavaScript to make web application interactive
 Expres.js to handle backend tasks
 Node.js on server side
 
-Launch project
+#How to launch
 
 1. Download project locally on your computer
 2. Enter to the directory with the project
