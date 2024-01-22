@@ -5,7 +5,7 @@
 
 ## General Info
 
-This is a simple web application that serves an Excel file via Node.js, presents this data, and allows the user to perform simple actions on it.
+This is a simple web application that serves an Excel file via Node.js, presents this data from Excel file and allows the user to perform simple actions on it.
 
 ## Used Technologies
 
